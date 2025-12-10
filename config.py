@@ -1,0 +1,5 @@
+import os
+
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+KANDINSKY_API_KEY = os.getenv("KANDINSKY_API_KEY")
+KANDINSKY_SECRET_KEY = os.getenv("KANDINSKY_SECRET_KEY")
